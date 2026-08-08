@@ -1,4 +1,9 @@
-![Python](https://shields.io)
-![Go](https://shields.io)
-![NodeJS](https://shields.io)
-![Rust](https://shields.io)
+## 🚀 Languages
+
+<p align="left">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Go" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="Rust" />
+</p>
