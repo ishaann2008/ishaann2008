@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Languages
+
+<img src="https://shields.io" alt="Python" height="40"/> <img src="https://shields.io" alt="Go" height="40"/> <img src="https://shields.io" alt="Node.js" height="40"/> <img src="https://shields.io" alt="Rust" height="40"/>
