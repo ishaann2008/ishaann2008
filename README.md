@@ -1,5 +1,5 @@
 ## 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,nodejs,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,github,vscode" />
 </p>
