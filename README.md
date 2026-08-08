@@ -1,7 +1,7 @@
 ## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=html,python,java" />
 </p>
 
 ## Tools 
