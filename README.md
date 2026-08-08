@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Languages
 
-<img src="https://shields.io" alt="Python" height="40"/> <img src="https://shields.io" alt="Go" height="40"/> <img src="https://shields.io" alt="Node.js" height="40"/> <img src="https://shields.io" alt="Rust" height="40"/>
+![Python](https://shields.io) ![Go](https://shields.io) ![Node.js](https://shields.io) ![Rust](https://shields.io)
