@@ -1,9 +1,5 @@
-## 🚀 Languages
+## 💻 Languages & Tools
 
 <p align="left">
-  <img src="https://jsdelivr.net" height="40" alt="Java" />
-  <img src="https://jsdelivr.net" height="40" alt="Python" />
-  <img src="https://jsdelivr.net" height="40" alt="Go" />
-  <img src="https://jsdelivr.net" height="40" alt="NodeJS" />
-  <img src="https://jsdelivr.net" height="40" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,nodejs,tailwind,git,github,vscode" />
 </p>
