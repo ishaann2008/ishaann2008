@@ -1,5 +1,10 @@
-## 💻 Languages & Tools
+## 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
+</p>
+
+## Tools 
+<p align ="left">
+  <img src="https://skillicons.dev/icons?i=github,vscode"/>
 </p>
